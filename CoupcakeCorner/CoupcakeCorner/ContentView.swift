@@ -34,10 +34,12 @@ struct ContentView: View {
                 }
                 
                 Section {
-                    Text("")
+                    NavigationLink("Address view") {
+                        AddressView(order: order)
+                    }
                 }
-            }
-        }.navigationTitle("Cupcake Corner")
+            }.navigationTitle("Cupcake Corner")
+        }
     }
 }
 
