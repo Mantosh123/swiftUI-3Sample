@@ -13,6 +13,7 @@
 		B4FB867E2CAD23DB00062907 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4FB867D2CAD23DB00062907 /* Preview Assets.xcassets */; };
 		B4FB86852CAD255D00062907 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FB86842CAD255D00062907 /* Book.swift */; };
 		B4FB86872CAD267D00062907 /* AddBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FB86862CAD267D00062907 /* AddBook.swift */; };
+		B4FB86892CAF0D8B00062907 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FB86882CAF0D8B00062907 /* RatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B4FB867D2CAD23DB00062907 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B4FB86842CAD255D00062907 /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 		B4FB86862CAD267D00062907 /* AddBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBook.swift; sourceTree = "<group>"; };
+		B4FB86882CAF0D8B00062907 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				B4FB86762CAD23DA00062907 /* MBookApp.swift */,
 				B4FB86782CAD23DA00062907 /* ContentView.swift */,
+				B4FB86882CAF0D8B00062907 /* RatingView.swift */,
 				B4FB86862CAD267D00062907 /* AddBook.swift */,
 				B4FB86842CAD255D00062907 /* Book.swift */,
 				B4FB867A2CAD23DB00062907 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 				B4FB86872CAD267D00062907 /* AddBook.swift in Sources */,
 				B4FB86792CAD23DA00062907 /* ContentView.swift in Sources */,
 				B4FB86772CAD23DA00062907 /* MBookApp.swift in Sources */,
+				B4FB86892CAF0D8B00062907 /* RatingView.swift in Sources */,
 				B4FB86852CAD255D00062907 /* Book.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
